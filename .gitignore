@@ -25,3 +25,4 @@ old_*.py
 *_old.py
 temp_session/
 uploaded_pdfs/
+index_summary.json
