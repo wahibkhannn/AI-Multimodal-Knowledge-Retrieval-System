@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+pandas
+numpy
+requests
+joblib
+scikit-learn
+pypdf
+qdrant-client
+groq
+tqdm
+google-genai
+sentence-transformers
